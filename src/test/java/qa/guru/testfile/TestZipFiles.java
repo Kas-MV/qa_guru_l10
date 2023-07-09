@@ -51,7 +51,7 @@ public class TestZipFiles {
     }
 
     @Test
-    void XlsFileCheck() throws Exception {
+    void xlsFileCheck() throws Exception {
         try (ZipFile zip = new ZipFile(new File("src/test/resources/samples.zip"))) {
             ZipEntry entry = zip.getEntry("fileExampleL10mot.xls");
 
