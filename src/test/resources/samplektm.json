@@ -1,0 +1,9 @@
+{
+  "mot": "KTM",
+  "type": "Turenduro",
+  "series": "890 Adventure",
+  "items": [{
+    "power": "105",
+    "engineCapacity": "890"
+  }]
+}
